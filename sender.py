@@ -37,7 +37,5 @@ with open(filename, "rb") as f:
 
 # close the socket
 
-time.sleep(10000)
-
 s.close()
 
